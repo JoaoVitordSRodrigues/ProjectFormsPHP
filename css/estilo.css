@@ -1,0 +1,38 @@
+body{
+    background-color: #f4f4f4;
+    margin: 10;
+    padding: 10;
+    
+}
+
+/*Cadastro pessoa fisica*/
+h1{
+    text-align: center;
+}
+
+.divForm{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+/*form*/
+.needs-validation{
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*div btn*/
+.col-12{
+    text-align: center;
+}
+
+
+
+/*pag controllerPessoa*/
+hr{
+    height: 2px;
+    background-color: gray;
+    border:none;
+}
